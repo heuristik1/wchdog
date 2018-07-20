@@ -1,0 +1,13 @@
+main.c:191:5:main	24	static
+main.c:240:13:Show_Board_Failure	8	static
+main.c:254:6:WaitForModemFinalReady	8	static
+main.c:268:13:prvMainTask	32	static
+main.c:341:6:vApplicationTickHook	16	static
+main.c:362:6:vApplicationMallocFailedHook	8	static
+main.c:377:6:vApplicationStackOverflowHook	16	static
+main.c:392:6:vApplicationIdleHook	16	static
+main.c:415:13:prvSetupHardware	8	static
+main.c:427:5:uS_Delay	24	static
+main.c:441:6:Do_Time	16	static
+main.c:472:8:Get_time	16	static
+main.c:482:6:Vars_Init	8	static

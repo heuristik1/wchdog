@@ -1,0 +1,10 @@
+Temp.c:39:13:START_I2C	8	static
+Temp.c:51:13:STOP_I2C	8	static
+Temp.c:62:13:ACK_I2C	8	static
+Temp.c:72:13:NACK_I2C	8	static
+Temp.c:82:13:WRITE_I2C_BYTE	24	static
+Temp.c:111:12:READ_I2C_BYTE	16	static
+Temp.c:129:6:Read_Temperature	40	static
+Temp.c:181:6:Get_Temperature	32	static
+Temp.c:215:6:Handle_Temp	16	static
+Temp.c:235:6:Temperature_Init	16	static

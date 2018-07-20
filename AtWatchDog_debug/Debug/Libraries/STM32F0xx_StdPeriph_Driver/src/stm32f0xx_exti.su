@@ -1,0 +1,8 @@
+stm32f0xx_exti.c:112:6:EXTI_DeInit	8	static
+stm32f0xx_exti.c:128:6:EXTI_Init	24	static
+stm32f0xx_exti.c:184:6:EXTI_StructInit	16	static
+stm32f0xx_exti.c:199:6:EXTI_GenerateSWInterrupt	16	static
+stm32f0xx_exti.c:229:12:EXTI_GetFlagStatus	24	static
+stm32f0xx_exti.c:252:6:EXTI_ClearFlag	16	static
+stm32f0xx_exti.c:266:10:EXTI_GetITStatus	24	static
+stm32f0xx_exti.c:290:6:EXTI_ClearITPendingBit	16	static

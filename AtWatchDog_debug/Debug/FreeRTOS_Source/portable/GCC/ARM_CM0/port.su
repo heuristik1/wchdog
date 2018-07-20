@@ -1,0 +1,11 @@
+port.c:117:17:pxPortInitialiseStack	24	static
+port.c:133:6:SVC_Handler	0	static
+port.c:161:6:vPortStartFirstTask	0	static
+port.c:177:15:xPortStartScheduler	8	static
+port.c:198:6:vPortEndScheduler	8	static
+port.c:205:6:vPortYieldFromISR	8	static
+port.c:212:6:vPortEnterCritical	8	static
+port.c:219:6:vPortExitCritical	8	static
+port.c:229:6:PendSV_Handler	0	static
+port.c:277:6:SysTick_Handler	16	static
+port.c:298:6:prvSetupTimerInterrupt	8	static

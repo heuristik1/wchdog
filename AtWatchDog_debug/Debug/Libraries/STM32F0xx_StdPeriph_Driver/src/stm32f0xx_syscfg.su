@@ -1,0 +1,10 @@
+stm32f0xx_syscfg.c:92:6:SYSCFG_DeInit	8	static
+stm32f0xx_syscfg.c:114:6:SYSCFG_MemoryRemapConfig	24	static
+stm32f0xx_syscfg.c:155:6:SYSCFG_DMAChannelRemapConfig	16	static
+stm32f0xx_syscfg.c:199:6:SYSCFG_I2CFastModePlusConfig	16	static
+stm32f0xx_syscfg.c:225:6:SYSCFG_IRDAEnvSelection	16	static
+stm32f0xx_syscfg.c:247:6:SYSCFG_EXTILineConfig	32	static
+stm32f0xx_syscfg.c:336:11:SYSCFG_GetPendingIT	16	static
+stm32f0xx_syscfg.c:353:6:SYSCFG_BreakConfig	16	static
+stm32f0xx_syscfg.c:368:12:SYSCFG_GetFlagStatus	24	static
+stm32f0xx_syscfg.c:397:6:SYSCFG_ClearFlag	16	static

@@ -1,0 +1,6 @@
+gsmtask.c:40:12:flush	24	static
+gsmtask.c:58:12:add_record	184	static
+gsmtask.c:96:5:get_time_and_location	32	static
+gsmtask.c:119:6:send_records	56	static
+gsmtask.c:166:6:WaitForModemInit	8	static
+gsmtask.c:178:6:prvCellTask	24	static
