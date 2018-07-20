@@ -1,0 +1,4 @@
+Debug.c:16:6:debug_Init	8	static
+Debug.c:22:6:debug_Puts	16	static
+Debug.c:27:6:debug_PutLine	16	static
+Debug.c:32:6:debug_Putc	16	static

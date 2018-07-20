@@ -1,0 +1,3 @@
+gsmtask.c:72:12:flush	24	static
+gsmtask.c:90:12:add_record	184	static
+gsmtask.c:168:6:prvCellTask	64	static

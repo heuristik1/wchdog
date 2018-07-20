@@ -1,0 +1,6 @@
+micro_vprintf.c:56:5:micro_vprintf	216	static
+micro_vprintf.c:306:13:micro_nputc	16	static
+micro_vprintf.c:321:5:micro_nvprintf	16	static
+micro_vprintf.c:345:13:micro_sputc	24	static
+micro_vprintf.c:364:5:micro_vsnprintf	40	static
+micro_vprintf.c:385:5:micro_snprintf	24	static

@@ -1,0 +1,14 @@
+timers.c:187:15:xTimerCreateTimerTask	32	static
+timers.c:218:14:xTimerCreate	32	static
+timers.c:257:15:xTimerGenericCommand	40	static
+timers.c:307:13:prvProcessExpiredTimer	32	static
+timers.c:343:13:prvTimerTask	24	static
+timers.c:367:13:prvProcessTimerOrBlockTask	24	static
+timers.c:416:21:prvGetNextExpireTime	24	static
+timers.c:442:21:prvSampleTimeNow	24	static
+timers.c:465:22:prvInsertTimerInActiveList	32	static
+timers.c:506:13:prvProcessReceivedCommands	48	static
+timers.c:579:13:prvSwitchTimerLists	48	static
+timers.c:636:13:prvCheckForValidListAndQueue	8	static
+timers.c:656:15:xTimerIsTimerActive	24	static
+timers.c:675:7:pvTimerGetTimerID	24	static

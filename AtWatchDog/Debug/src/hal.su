@@ -1,0 +1,11 @@
+hal.c:70:6:Clocks_Init	8	static
+hal.c:103:6:Hardware_Init	24	static
+hal.c:133:6:MODEM_PWRKEY	16	static
+hal.c:140:6:FLASH_CLK	16	static
+hal.c:147:6:FLASH_DOUT	16	static
+hal.c:154:6:FLASH_CS	16	static
+hal.c:161:6:TEMP_SCL	16	static
+hal.c:168:6:TEMP_SDA	16	static
+hal.c:175:6:VOLT_SCL	16	static
+hal.c:182:6:VOLT_SDA	16	static
+hal.c:189:6:MODEM_PWR_EN	16	static

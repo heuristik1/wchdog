@@ -1,0 +1,12 @@
+stm32f0xx_dma.c:137:6:DMA_DeInit	16	static
+stm32f0xx_dma.c:233:6:DMA_Init	24	static
+stm32f0xx_dma.c:292:6:DMA_StructInit	16	static
+stm32f0xx_dma.c:329:6:DMA_Cmd	16	static
+stm32f0xx_dma.c:355:6:DMA_RemapConfig	16	static
+stm32f0xx_dma.c:415:6:DMA_SetCurrDataCounter	16	static
+stm32f0xx_dma.c:435:10:DMA_GetCurrDataCounter	16	static
+stm32f0xx_dma.c:512:6:DMA_ITConfig	24	static
+stm32f0xx_dma.c:590:12:DMA_GetFlagStatus	24	static
+stm32f0xx_dma.c:685:6:DMA_ClearFlag	16	static
+stm32f0xx_dma.c:762:10:DMA_GetITStatus	24	static
+stm32f0xx_dma.c:857:6:DMA_ClearITPendingBit	16	static

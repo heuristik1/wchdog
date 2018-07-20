@@ -1,0 +1,12 @@
+uart1.c:54:6:uart1_Init	48	static
+uart1.c:130:6:uart1_Putc	16	static
+uart1.c:138:5:uart1_PutByteNoLock	24	static
+uart1.c:159:5:uart1_PutByte	24	static
+uart1.c:169:5:uart1_Write	24	static
+uart1.c:184:6:uart1_Puts	16	static
+uart1.c:194:6:uart1_PutLine	16	static
+uart1.c:205:5:uart1_GetByte	16	static
+uart1.c:219:5:uart1_WaitForByte	24	static
+uart1.c:241:5:uart1_Read	40	static
+uart1.c:266:5:uart1_Printf	16	static
+uart1.c:281:6:USART1_IRQHandler	24	static
